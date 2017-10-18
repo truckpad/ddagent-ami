@@ -10,4 +10,4 @@ packer build \
     packer-ddagent.json
 ```
 
-You can select the AMI Base id from (ECS Optimized-AMI list)[http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-optimized_AMI.html].
+You can select the AMI Base id from [ECS Optimized-AMI list](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-optimized_AMI.html).
