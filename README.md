@@ -1,4 +1,4 @@
-# DataDog Agent packer
+# Amazon ECS - AMI packer with default DataDog Agent service
 
 Build example:
 
